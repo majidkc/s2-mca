@@ -88,7 +88,7 @@ insert into course values('Knowledge Engneering','CS4390',3,'CS');
 delete from student where names="Smith" and student_no=17;
 
 select * from student;
-
+	
 
 
 
